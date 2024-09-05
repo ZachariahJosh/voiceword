@@ -4,4 +4,4 @@ import numpy as np
 
 # 功能描述
 if __name__ == '__main__':
-    pass
+    passq
